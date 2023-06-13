@@ -1,12 +1,12 @@
 # MY-CART
 
-#Requirements
+# Requirements
 
 Node.js
 
 NPM
 
-#This project is created using:
+# This project is created using:
 
 React js 
 
